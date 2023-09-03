@@ -1,4 +1,5 @@
 ### How to install
+ - Termux only 
  - clone this and install
 ```
 git clone https://github.com/FVSCyber/MD5
