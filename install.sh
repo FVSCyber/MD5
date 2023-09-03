@@ -22,3 +22,6 @@ mv -f target.txt /sdcard/MD5_Hack
 mv -f index.html /sdcard/MD5_Hack
 sleep 1
 echo "[#]installation Succes"
+sleep 1
+echo "[*]Opening MD5"
+python2 ns.py
