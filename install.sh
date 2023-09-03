@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 apt install toilet
+clear
 sleep 1
 toilet -f digital MassDeface5
 sleep 1
