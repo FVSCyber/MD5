@@ -17,9 +17,9 @@ read -p "[+]make Folder MD5_Hack ?"
 mkdir MD5_Hack
 cd MD5_Hack
 echo "[~]Moving file "
-mv -f ns.py /sdcard/MD5_Hack
-mv -f target.txt /sdcard/MD5_Hack
-mv -f index.html /sdcard/MD5_Hack
+mv -f ~/MD5/ns.py /sdcard/MD5_Hack
+mv -f ~/MD5/target.txt /sdcard/MD5_Hack
+mv -f ~/MD5/index.html /sdcard/MD5_Hack
 sleep 1
 echo "[#]installation Succes"
 sleep 1
